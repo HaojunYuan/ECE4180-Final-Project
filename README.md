@@ -8,4 +8,4 @@ We combines the VR gloves with the kit we used in the lab this semester for bett
 
 - Use Joystick controller to move the virtual hand around in VR software.
 - Add a sonar distance detector to prevent the user from running into obstacles. This is especially useful because the user will be in virtual reality and will not be able to see obstacles in the real world.
-- Add LEDs to the glove to warn the user when their hand is too close to an obstacle.
+- Add a speaker to alarm the user when the glove is too close to obstacles.
